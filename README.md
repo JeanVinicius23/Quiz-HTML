@@ -9,6 +9,7 @@ A proposta foi criar uma página de quiz interativo para praticar conceitos fund
 
 ## 🚀 Tecnologias utilizadas
 - HTML5
+- CSS
 
 ## 🎯 Objetivos de aprendizado
 Durante o desenvolvimento deste projeto, pratiquei:
