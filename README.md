@@ -20,12 +20,6 @@ Durante o desenvolvimento deste projeto, pratiquei:
 - Criação de elementos interativos
 - Boas práticas iniciais de desenvolvimento web
 
-## 📂 Estrutura do projeto
-Intro-html/
-│
-├── assets/
-├── Quiz.html
-└── README.md
 
 Este projeto foi importante para consolidar meus primeiros conhecimentos em desenvolvimento web, permitindo compreender melhor como páginas web são estruturadas e estilizadas.
 
